@@ -1,0 +1,162 @@
+body{
+    /* background-image:url('https://p1.pxfuel.com/preview/263/129/264/cat-s-cafe-cat-interior-table-rest-relax-royalty-free-thumbnail.jpg');
+    background-repeat: no-repeat; 
+    background-size: cover;*/
+    background-color: #ffcdf8;
+    margin:20px;
+} 
+
+#cafe-title{
+    font-size: 55px;
+    font-weight: 100px;
+    text-align: center;
+    color:black;
+}
+
+#cat-cafe{
+    margin-left:auto;
+    margin-right:auto;
+    position: static;
+    background-image: url('https://s3.amazonaws.com/dailyorange/wp-content/uploads/2020/09/30210112/Young-Bin-Lee_CP_PawsitiviteaCafe_4.jpg');
+    object-fit: fill;
+    background-repeat: no-repeat;
+    background-position: center;
+    width:1200px;
+    height:600px;
+    border-color: #ffcb05;
+    border-style: solid;
+}
+
+#Mici{
+    position:relative;
+    height: 45px;
+    width:auto;
+    top: 170px;
+    left: 90px;
+}
+
+#Fatsy{
+    position:relative;
+    height: 47px;
+    width:auto;
+    top: 160px;
+    left: 90px;
+}
+
+#Qorri{
+    position:relative;
+    height: 120px;
+    width:auto;
+    top: 330px;
+    left: 160px; 
+}
+
+#Muffin{
+    position:relative;
+    height: 120px;
+    width:auto;
+    top: 350px;
+    left: 485px; 
+}
+
+#Moon{
+    position:relative;
+    height: 120px;
+    width:auto;
+    top: 250px;
+    left: 640px; 
+}
+
+#Riley{
+    position:relative;
+    height: 180px;
+    width:auto;
+    top: 395px;
+    right: 310px;
+}
+
+#comment-section{
+    border-color:black;
+    border-style: double;
+    background-size: contain;
+    min-block-size: auto;
+    margin-left:auto;
+    margin-right:auto;
+    width: 500px;
+    background-color: #c7d868;
+    padding:15px;
+    text-align: center;
+}
+
+#cat-collection{
+    background-size: contain;
+    border-style: solid;
+    border-color: purple;
+    margin-left: auto;
+    margin-right:auto;
+    display: table;
+}
+
+
+.card {
+    display: table-cell;
+    border: solid;
+    border-color: #ffcb05;
+    padding: 20px;
+    margin:auto;
+    text-align: center;
+    background-size: contain;
+    background-image: url('https://www.seekpng.com/png/full/26-265409_cat-paw-print-pink.png');
+    background-repeat: no-repeat; 
+    background-position: center;
+    background-color: white;
+    height: 450px;
+    width:200px;
+
+}
+.card-hover{
+    display: table-cell;
+    border: solid;
+    border-color: #ffcb05;
+    padding: 20px;
+    margin:auto;
+    text-align: center;
+    background-size: contain;
+    background-image: url('https://www.seekpng.com/png/full/26-265409_cat-paw-print-pink.png');
+    background-repeat: no-repeat; 
+    background-position: center;
+    background-color: white;
+    height: 450px;
+    width:200px;
+}
+.card-hover:hover{
+    display: table-cell;
+    border: solid;
+    border-color: #8c66d1;
+    padding: 20px;
+    margin:auto;
+    text-align: center;
+    background-size: contain;
+    background-image: url('https://www.seekpng.com/png/full/26-265409_cat-paw-print-pink.png');
+    background-repeat: no-repeat; 
+    background-position: center;
+    background-color: rgb(181, 221, 253);
+    height: 450px;
+    width:200px;
+}
+
+.cat-card-stuff{
+    border: solid;
+    border-color: #ffcb05;
+    padding: 10px 5px;
+    margin:7px;
+}
+
+
+
+img{
+    max-height:200px;
+    width:auto; 
+}
+
+

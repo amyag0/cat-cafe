@@ -1,0 +1,41 @@
+{
+    "arrayOfCats": [
+        {   "name":"Mici",
+            "id":"1",
+            "image":"https://blogger.googleusercontent.com/img/a/AVvXsEi4xYHSV-LN3YTg45xkJiVEEqsGnIDRTMZolSbWqktiUxfSoK_nq_3jeUOc0V0JcnW7kOgPFG29YwGYVmr9b9v0eOkKEa7u2a6a-3E5nYCc3R-slvhKWsx3hvOpOwgm0CKis_GymQVNkY4Lii9NToY6iaF9Q6LZ4hWss-bkuAIbOWaSoTiiOcXb3cyXaA",
+            "likes":"100",
+            "breed":"Beautiful" },
+        
+        {   "name":"Fatsy",
+            "id":"2",
+            "image":"https://blogger.googleusercontent.com/img/a/AVvXsEjNCBCCKPiNdoiD_EchwjvcXNU34QMmqH2rxXW3pzzdxcv4e56UEtcjD7EHD47QRo6s4oCfcVan4BAKqO6dPuUy92hbZbIuX54a0eJdun0x879jC9MwdBaH2j4WcEQTIxnaODvsRsKnJu5Ng1e5Evo0pwYKXtQ4Dys1rD-EGggmhzDRlT12AgnR3keGSg",
+            "likes":"89",
+            "breed":"Chonk" },
+        
+        {   "name":"Qorri",
+            "id":"3",
+            "image":"https://blogger.googleusercontent.com/img/a/AVvXsEhZF0R9et8OwAQmRQj9X1NwQwLkhoiRhzcn2xmPUaWsDYZzFXGl3htIryFOaAhHq9tyKCwVS4ILFNtxyC-c48QLTrXU2e-TJGzNTj05ZXDJi2lt5yHF4l0rd20eG08Uk92gm6HqdY_q5uwa9qwySAnuJWfJGRRYm4KCVaRzklnVfEgi15z44Hi5BGgNwA",
+            "likes":"97",
+            "breed":"Sweetboy" },
+        
+        {   "name":"Muffin",
+            "id":" 4 ",
+            "image":"https://blogger.googleusercontent.com/img/a/AVvXsEiqTGx4EVwVJbRWxaZI865fdFuVmBOYdPIHZELnR7_yz-UJwQulzWJxAD4tyKwTrHHgj-T9DDA5_-6sfraxHXMZuoI397rxlesc3_3FMdvzLhitbCMEX9STeuNQRyZfjRclRHaVvT0ZcF1TmFkhzt0JNmH2a2HYM2DkNA5zvGi7-VgfQ1-bRJsgGwMuzw",
+            "likes":"23",
+            "breed":"Sassy" },
+
+        {   "name":"Moon",
+            "id":"5",
+            "image":"https://blogger.googleusercontent.com/img/a/AVvXsEhL8471w6jI3iefQeoO5YgSTqKXUeVQ4or2EhQTFebgV8l--fx2uq8jWg7CSTn7W0Q3h3BTzPyHOIqA_sP5p6k6BHPauQS2MgIi2z9Ekihu7VnVegMoxQp8fMXu_SPcitveusm45NDpw8G1WE-9kE0t9Ud7hCcupMdfe37h6lOE9qvpF_S9c_hI5KOiNQ=s320",
+            "likes":"82",
+            "breed":"Precious" },
+
+        {   "name":"Riley",
+            "id":"6",
+            "image":"https://blogger.googleusercontent.com/img/a/AVvXsEhc33Q0I1Pg5mWIutToc7apiieJ1_usRDYuhxqs-8l5kP9GQBatGxOSc2nzMf4czup6QrHSas_oEyxblRHV6sMePGlnmxx6PSjWGG59PtNwr30l73Dxusp-ItIHvg1gu6UH3feXeoC7gs0c_YWu6Ntwg9mGwAbBI4fTtKYGv7XkjyuI2zoeabpfaGF4BQ=s320",
+            "likes":"101",
+            "breed":"Weird Cat" }
+        
+        ]
+
+}
